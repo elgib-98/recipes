@@ -4,3 +4,4 @@
 -potato £0.30
 # Instructions
 -put the peas in a pan
+- cook the peas
