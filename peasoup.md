@@ -5,3 +5,4 @@
 # Instructions
 -Boil water slowly
 -put the peas in a pan
+- cook the peas
